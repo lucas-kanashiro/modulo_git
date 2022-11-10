@@ -20,4 +20,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - git commit -m "feat: inclusão de função para calcular mediana"
 
 ### Docs - atualização de documentação
-- git commit -m "docs: atualizando o changelog.md"
+- git commit -m "docs: atualizando o changelog.md"git status
